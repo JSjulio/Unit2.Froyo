@@ -1,8 +1,4 @@
 // The user is prompted for froyo flavors upon entering the website.
-order = prompt(
-    'List the flavors of froyo you want to order today'
-    'vanilla','vanilla',
-    );
 
 
 // The user's input string is split into an array of strings.
